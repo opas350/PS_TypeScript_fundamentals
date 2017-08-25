@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true
+  },
+  "files": [
+    "Typings/toastr.d.ts",
+    "Typings/jquery.d.ts",
+    "demo1/Script/globalModule.ts",
+    "demo2/Scripts/InternalModule.ts"
+  ]
+}
